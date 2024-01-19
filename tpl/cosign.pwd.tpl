@@ -1,0 +1,1 @@
+export COSIGN_PWD=$COSIGN_PWD
